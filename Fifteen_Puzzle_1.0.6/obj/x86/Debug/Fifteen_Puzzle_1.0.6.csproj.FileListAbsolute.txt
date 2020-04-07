@@ -1,0 +1,11 @@
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\bin\Debug\Fifteen_Puzzle_1.0.6.exe
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\bin\Debug\Fifteen_Puzzle_1.0.6.pdb
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Debug\Fifteen_Puzzle_1.0.6.exe
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Debug\Fifteen_Puzzle_1.0.6.pdb
+C:\Users\seval\source\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\bin\Debug\Fifteen_Puzzle_1.0.6.exe
+C:\Users\seval\source\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\bin\Debug\Fifteen_Puzzle_1.0.6.pdb
+C:\Users\seval\source\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Debug\Fifteen_Puzzle_1.0.6.csprojAssemblyReference.cache
+C:\Users\seval\source\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Debug\Fifteen_Puzzle_1.0.6.csproj.CoreCompileInputs.cache
+C:\Users\seval\source\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Debug\Fifteen_Puzzle_1.0.6.exe
+C:\Users\seval\source\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Debug\Fifteen_Puzzle_1.0.6.pdb

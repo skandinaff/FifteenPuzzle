@@ -1,0 +1,5 @@
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\bin\Release\Fifteen_Puzzle_1.0.6.exe
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\bin\Release\Fifteen_Puzzle_1.0.6.pdb
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Release\Fifteen_Puzzle_1.0.6.exe
+c:\users\skandinaff\documents\visual studio 2010\Projects\Fifteen_Puzzle_1.0.6\Fifteen_Puzzle_1.0.6\obj\x86\Release\Fifteen_Puzzle_1.0.6.pdb
