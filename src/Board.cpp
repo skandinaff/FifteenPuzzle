@@ -1,4 +1,5 @@
 #include "Board.h"
+#include "Input.h"
 #include <iostream>
 #include <algorithm>
 
@@ -79,6 +80,7 @@ int Board::countCorrectPrefix(const Board& goal) const {
 }
 
 void Board::print(const Board& goal, bool helpOpened) const {
+    clearScreen();
     int rightSec = countCorrectPrefix(goal);
     std::cout << "\n\t---------------------------------\n";
     for(int i=0;i<SIZE;i++) {

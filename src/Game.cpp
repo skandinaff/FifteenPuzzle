@@ -1,4 +1,5 @@
 #include "Game.h"
+#include "Input.h"
 #include <iostream>
 #include <fstream>
 
@@ -31,12 +32,13 @@ void Game::run() {
         scores.display();
         std::cout << "\tPlease, enjoy the game, mate!" << std::endl;
         char key;
-        while(std::cin >> key) {
+        while(true) {
+            key = getch();
             if(key=='h' || key=='H') {
                 helpOpened=true;
                 board.print(goal, helpOpened);
                 std::cout << "Press any key to continue..." << std::endl;
-                std::cin >> key;
+                getch();
                 helpOpened=false;
             } else if(key=='m' || key=='M') {
                 mute=!mute;
@@ -57,7 +59,7 @@ void Game::run() {
                 showPie();
                 scores.record(moves);
                 std::cout << "Another one? (y/n)" << std::endl;
-                char ans; std::cin >> ans;
+                char ans = getch();
                 if(ans=='y' || ans=='Y') break; else return;
             }
         }

@@ -8,6 +8,7 @@ add_executable(FifteenPuzzle
     src/Game.cpp
     src/Board.cpp
     src/ScoreBoard.cpp
+    src/Input.cpp
 )
 
 target_include_directories(FifteenPuzzle PRIVATE include)
